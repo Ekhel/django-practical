@@ -7,3 +7,9 @@
   - DRF(djangorestframework)
   - Docker
   - Docker-compose
+
+
+### Sample :
+
+* [Custom Users Model Before Migrations](https://github.com/Ekhel/django-practical/tree/master/practical/core)
+* [Sampel TDD / Test Development Driven](https://github.com/Ekhel/django-practical/blob/master/practical/practical/tests.py)
