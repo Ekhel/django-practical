@@ -9,5 +9,5 @@ class Snippet(models.Model):
         return self.title
 
     def body_preview(self):
-        return self.body
+        return self.body[:50]
         

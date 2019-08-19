@@ -39,10 +39,10 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'rest_framework.authtoken',
+    'graphene_django',
     'authapi',
     'core',
     'editor',
-    'graphene_django',
 ]
 
 REST_FRAMEWORK = {
