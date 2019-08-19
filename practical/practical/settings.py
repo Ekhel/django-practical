@@ -41,6 +41,8 @@ INSTALLED_APPS = [
     'rest_framework.authtoken',
     'authapi',
     'core',
+    'editor',
+    'graphene_django',
 ]
 
 REST_FRAMEWORK = {
