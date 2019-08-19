@@ -26,3 +26,4 @@
   - make folder static in our app copas file css, js, from template you are using
   - go to the settings file in the root of project, make sure your settings have this (STATIC_URL = '/static/')
 * [REST User Authentication API With DRF(Django Rest Framework) And Token Serializers](https://github.com/Ekhel/django-practical/tree/master/practical/authapi)
+* [Implement GraphQL Schema using graphene django](https://github.com/Ekhel/django-practical/tree/master/practical/editor)
